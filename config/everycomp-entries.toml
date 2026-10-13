@@ -1,0 +1,224 @@
+		[types.lantern.suppsquared]
+			copper_lantern = true
+			brass_lantern = true
+			crimson_lantern = true
+
+		[types.lantern.twigs]
+			paper_lantern = true
+			allium_paper_lantern = true
+			blue_orchid_paper_lantern = true
+			crimson_roots_paper_lantern = true
+			dandelion_paper_lantern = true
+			torchflower_paper_lantern = true
+
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+			poplar = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.regions_unexplored]
+			alpha = true
+			baobab = true
+			blackwood = true
+			brimwood = true
+			cobalt = true
+			cypress = true
+			dead = true
+			eucalyptus = true
+			joshua = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			palm = true
+			pine = true
+			redwood = true
+			socotra = true
+			willow = true
+			wisteria = true
+			pink_bioshroom = true
+			yellow_bioshroom = true
+			blue_bioshroom = true
+			green_bioshroom = true
+
+		[types.wood_type.expandeddelight]
+			cinnamon = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+			red_poplar = true
+			orange_poplar = true
+			yellow_poplar = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.regions_unexplored]
+			alpha = true
+			apple_oak = true
+			ashen = true
+			bamboo = true
+			baobab = true
+			blackwood = true
+			blue_magnolia = true
+			brimwood = true
+			cypress = true
+			dead_pine = true
+			dead = true
+			eucalyptus = true
+			flowering = true
+			golden_larch = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			orange_maple = true
+			palm = true
+			pine = true
+			pink_magnolia = true
+			red_maple = true
+			redwood = true
+			silver_birch = true
+			small_oak = true
+			socotra = true
+			white_magnolia = true
+			willow = true
+			sky_wisteria = true
+			lavender_wisteria = true
+			salmon_wisteria = true
+
+		[types.leaves_type.expandeddelight]
+			cinnamon = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.stone_type.naturalist]
+			shellstone = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.regions_unexplored]
+			argillite = true
+			chalk = true
+
+		[types.stone_type.spelunkery]
+			nephrite = true
+
+		[types.stone_type.twigs]
+			schist = true
+			rhyolite = true
+			bloodstone = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.regions_unexplored]
+			branch = true
+
+		[entries.wood_type.shutter]
+			shutter = true
+
+		[entries.wood_type.vanillabackport]
+			shelf = true
+
+		[entries.wood_type.twigs]
+			table = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			flower_box = true
+			shelf = true
+			drawer = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			polished_cut_stairs = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = true
+			pillar = true
+			vertical_slab = true
+
+		[entries.stone_type.twigs]
+			column = true
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true

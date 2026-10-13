@@ -1,0 +1,13 @@
+name = "Haunted Harvest"
+filename = "hauntedharvest-1.21-3.5.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a378ICDH/versions/GdJA2UIU/hauntedharvest-1.21-3.5.0-neoforge.jar"
+hash-format = "sha512"
+hash = "bbd451ed277968be09dfdb4b0040b57eb3f2693ab69c4bc75997322f62f93ccc9325a2cb2a1d9936c585d682a80621219e4155bcc1a9aea69bc07c9b1e205b0d"
+
+[update]
+[update.modrinth]
+mod-id = "a378ICDH"
+version = "GdJA2UIU"

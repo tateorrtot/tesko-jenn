@@ -1,0 +1,18 @@
+#Whether the mod is enabled or not, hope you come back soon!
+enabled = true
+#Automatically focuses the search bar when opening a stock keeper
+auto_focus_search_enabled = true
+#Whether items should be snapped to increments when scrolling, snapping in different increments when holding Shift or Ctrl
+scroll_snapping_enabled = true
+#Right clicking an item in the order bar divides the requested amount by 2
+right_click_divide_enabled = true
+#Prevents scrolling from removing an item from the order bar entirely
+prevent_stack_deletion_enabled = true
+#The default snapping increment for scrolling. Can be a number or a simple expression starting with 'stack', like 'stack*5', 'stack*0.25', 'stack/4'.
+default_snapping_expression = "1"
+#The snapping increment for scrolling when the Ctrl key is pressed. Can be a number or a simple expression starting with 'stack', like 'stack*5', 'stack*0.25', 'stack/4'.
+ctrl_snapping_expression = "10"
+#The snapping increment for scrolling when the Shift key is pressed. Can be a number or a simple expression starting with 'stack', like 'stack*5', 'stack*0.25', 'stack/4'.
+shift_snapping_expression = "stack/4"
+#The snapping increment for scrolling when both the Ctrl and Shift keys are pressed. Can be a number or a simple expression starting with 'stack', like 'stack*5', 'stack*0.25', 'stack/4'.
+ctrl_shift_snapping_expression = "stack"

@@ -1,0 +1,13 @@
+[highlight]
+	#Highlight color
+	color = "#FFFF68CF"
+	#Outline the bound player when you use a heartstone
+	enabled = true
+	#Distance at which the player highlight will take effect
+	# Default: 20
+	# Range: 0 ~ 10000
+	distance = 20
+	#How long the highlight lasts, in ticks
+	# Default: 100
+	# Range: 0 ~ 10000
+	duration = 100

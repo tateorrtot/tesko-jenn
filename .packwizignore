@@ -1,0 +1,6 @@
+*.mrpack
+*.bak
+*.bak.*
+config/jei/world/
+config/NoChatReports/NCR-Encryption.json
+shaderpacks/*EuphoriaPatches*

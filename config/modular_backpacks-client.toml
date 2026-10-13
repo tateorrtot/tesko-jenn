@@ -1,0 +1,22 @@
+[backpack]
+	#Reopen the backpack menu automatically when reopening inventory
+	reopenBackpackWithInventory = true
+	#
+	#Tint the backpack UI using the backpack dye color
+	showBackpackUiColor = true
+
+[bagowind]
+	#Show the Bag O' Wind charge bar above the hotbar.
+	showBagOWindChargeBar = false
+
+[enchantments]
+	#If true, shows Backpack enchantment descriptions
+	showEnchantmentDescriptions = false
+
+[rationing]
+	#Render rationing reserve directly on top of hunger instead of above it
+	rationingOverlayOnHunger = false
+
+[cosmetics]
+	#Enable backpack cosmetic sounds
+	enableCosmeticSounds = true

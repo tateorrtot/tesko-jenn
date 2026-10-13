@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Ocean Monuments Compat Port"
+filename = "Repurposed_Structures-Better_Monuments_v7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmBp1AVZ/versions/Z6IPtb5n/Repurposed_Structures-Better_Monuments_v7.jar"
+hash-format = "sha512"
+hash = "93bd139163d36a90a60c4024181997d15c72e262c1aef0b65b783e3e3325dd3d95bcf4b650ce3c529ea270857dcb97893317768e9cef08dee013c747b9ceb17e"
+
+[update]
+[update.modrinth]
+mod-id = "XmBp1AVZ"
+version = "Z6IPtb5n"

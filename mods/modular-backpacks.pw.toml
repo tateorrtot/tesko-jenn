@@ -1,0 +1,13 @@
+name = "Modular Backpacks"
+filename = "modular_backpacks-0.2.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtYm4JYX/versions/7YwXrzdD/modular_backpacks-0.2.12.jar"
+hash-format = "sha512"
+hash = "45abde2ed25ce0bb6846f8049259f25959de95a0423f9f3a15a4e3efe727a8230fa21897d85fefdc5620b392e8042276baddc2818ad6913766493de7a0d536ff"
+
+[update]
+[update.modrinth]
+mod-id = "jtYm4JYX"
+version = "7YwXrzdD"

@@ -1,0 +1,13 @@
+name = "Heartstone"
+filename = "heartstone-1.21.1-1.4.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBY6AFje/versions/RGoPioFW/heartstone-1.21.1-1.4.1-neoforge.jar"
+hash-format = "sha512"
+hash = "7bf352a50466dcdf3ad56f84729169030ba40114a196d56fc01111a31d81ec36d4fa717b32e65b3219b133ca218c7f72287550869945f4161b45afe6470fb8b1"
+
+[update]
+[update.modrinth]
+mod-id = "NBY6AFje"
+version = "RGoPioFW"

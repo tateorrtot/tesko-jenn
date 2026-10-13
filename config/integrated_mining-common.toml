@@ -1,0 +1,41 @@
+[content_overlap]
+	#Determines the default silver (true for Caverns & Chasms, false for Oreganized)
+	"Caverns & Chasms Silver" = true
+	#Disables Oreganized silver equipment if false
+	"Oreganized Silver Equipment" = true
+	#Disables Caverns & Chasms' silver equipment if false
+	"Caverns & Chasms Silver Equipment" = true
+
+[worldgen]
+	#Whether to increase silver ore generation if Oreganized silver is the default
+	"More Silver" = true
+	#Generates Turquoise ores from Caverns & Chasms if true (very rare)
+	"Turquoise Ore Generation" = false
+	#Disables Spelunkery's deep dark fossils if true
+	"Disable Deep Dark Fossils" = false
+	#Disables Spelunkery's nephrite geodes if true
+	"Disable Nephrite Geodes" = false
+
+[recipes]
+	#If the Preserved Upgrade from Galosphere should have a duplication recipe
+	"Preserved Template Recipe" = true
+	#If Lead Bolts from Oreganized should cost less to craft
+	"Cheaper Lead Bolts" = true
+	#If Rope Ladders from Spelunkery should use the old recipe
+	"Old Rope Ladder Recipe" = false
+	#Adds recipes for Oreganized silver equipment if enabled
+	"Silver Equipment Crafing" = false
+	#Enables Create bulk haunting recipes for tarnishing Oreganized silver blocks
+	"Silver Tarnishing Recipes" = true
+	#Enables Create sandpaper polishing recipes for untarnishing Oreganized silver blocks
+	"Silver Untarnishing Recipes" = true
+
+[gameplay_tweaks]
+	#Whether this mod's Raw Nuggets should be enabled if Spelunkery is loaded
+	"Raw Nuggets" = true
+	#Whether this mod's Rough Gems should be enabled if Spelunkery is loaded
+	"Rough Gems" = true
+	#Whether this mod's ore variants should be enabled if Spelunkery is loaded
+	"Ore Variants" = true
+	#Brings back Galosphere's Palladium Smithing Template and old recipes for Sterling armor if enabled
+	"Old Sterling Crafing" = false

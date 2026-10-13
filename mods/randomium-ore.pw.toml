@@ -1,0 +1,13 @@
+name = "Randomium Ore"
+filename = "randomium-1.21-1.33.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lz9WMhfG/versions/tmQSfhRW/randomium-1.21-1.33.3-neoforge.jar"
+hash-format = "sha512"
+hash = "d0e0cd516baa66d6694bd0c518108f60d32bebdc20e44e5dbe7b02287e4c668e14c9ce6abfdc3dbb3a05ee0fbfaaf5d81ac4663dcc600d313a20ac7042a88ba3"
+
+[update]
+[update.modrinth]
+mod-id = "lz9WMhfG"
+version = "tmQSfhRW"

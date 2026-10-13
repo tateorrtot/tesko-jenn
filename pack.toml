@@ -1,0 +1,13 @@
+name = "tesko-jenn"
+author = "tateorrtot"
+version = "1.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff04c3cddedb7c8ae21966a4905f145fda748b6d51ab88cfc39798137e24f329"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

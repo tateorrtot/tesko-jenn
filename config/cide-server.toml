@@ -1,0 +1,39 @@
+#General
+[access]
+	#Is CIDE enabled?
+	enabled = true
+	#Allow players to mutate files through CIDE.
+	enableWrites = true
+	#Require OP to open CIDE.
+	requireOperator = false
+	#Allow CIDE to open on command computers.
+	allowCommandComputers = false
+	#Maximum distance (in blocks) a player can be from the computer to open CIDE, This mainly exists for turtles.
+	# Default: 8.0
+	# Range: 1.0 ~ 64.0
+	maxUseDistance = 8.0
+
+#Computers
+[computerTypes]
+	#Does basic version of a pc have the editor or not? Turtles are treated as normal PCs.
+	basicEditor = false
+	#Do Tablets have the editor? Opened by shift clicking the air with one in hand.
+	tabletEditor = false
+
+#Server Limits
+[limits]
+	#Maximum number of files listed per directory.
+	# Default: 256
+	# Range: 1 ~ 10000
+	maxListedEntries = 256
+	#Maximum network requests per second per player before rate-limiting kicks in. Probably dont change this. (nor do you really need to)
+	# Default: 200
+	# Range: 1 ~ 10000
+	rateLimitRequestsPerSecond = 200
+
+#Path Whitelisting/blacklisting.
+[paths]
+	#Paths that are always denied. Default: ["rom", "."] - dont forget about the normal CC interface - a file starting with a dot will be hidden in computer craft.
+	deniedPathPrefixes = ["rom", "."]
+	#If non-empty, only paths matching these prefixes are accessible. Leave this field empty to allow any name - dont forget about the normal CC interface.
+	allowedPathPrefixes = []

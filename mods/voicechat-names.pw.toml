@@ -1,0 +1,13 @@
+name = "Simple Voice Chat Group Player Names"
+filename = "voicechat-names-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AcHVdC8l/versions/NJIhyLTC/voicechat-names-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "db4d942ac137e2a7f82cea670703e5105b951392db96961340afdbea7c5b4c2867769e84ec18bdddd2072cf848bcf4ebf34cad8830ad48a63c811e5447de33ff"
+
+[update]
+[update.modrinth]
+mod-id = "AcHVdC8l"
+version = "NJIhyLTC"

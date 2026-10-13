@@ -1,0 +1,13 @@
+name = "Chalk"
+filename = "chalk-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/c9La5ZxO/chalk-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "dac534f0af3ee587e7b9f010284f387ebe871e0c7c7dc8ce5b3d235e5fa00e245eaeb9533bb6109f02f7eb90d4de9510d34fabe014ad0dd6c873ea94c6786e74"
+
+[update]
+[update.modrinth]
+mod-id = "YWGP4Y1d"
+version = "c9La5ZxO"

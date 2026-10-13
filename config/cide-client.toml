@@ -1,0 +1,4 @@
+#Opacity of the editor. Default: 0.533 - Good balance between both (well, its in the middle) 
+# Default: 0.533
+# Range: 0.1 ~ 1.0
+opacity = 0.533

@@ -1,0 +1,13 @@
+name = "Geophilic Backport"
+filename = "GeophilicBackported-v1.3.3 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uTfd4Kbj/versions/gA1uuNv3/GeophilicBackported-v1.3.3%201.21.1.jar"
+hash-format = "sha512"
+hash = "56849e07e5460518e8221a7c7d3731ac63a1b529615771c05a11f28cc7fdec2f1eafb35c9038fbb94b3d7804207ebe1260d43e8553ae8894202545976fc44e02"
+
+[update]
+[update.modrinth]
+mod-id = "uTfd4Kbj"
+version = "gA1uuNv3"
