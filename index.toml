@@ -1653,14 +1653,6 @@ file = "config/zipline.json"
 hash = "91ed15c2784fe68d2758ab21cf769fd4ff52c0c823e098b38464adce6362ae6b"
 
 [[files]]
-file = "mods/Platform-neoforge-1.21.1-1.4.0.2639.1.jar"
-hash = "75c5f5658b3327dc12ed54cb75b3369300788d9904bdc3dd4e072bbd6fecdf2d"
-
-[[files]]
-file = "mods/VanillaBackport-neoforge-1.21.1-1.2.0.2639.1.jar"
-hash = "e10a14f4127b29131ab624262316dbc8dc3f7cb564dbf896c8d28f1d62c9377f"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "7044caba33676aae8761696409c8777a43c966ee2b4ea7de122a1f2a34b03160"
 metafile = true
@@ -2556,6 +2548,11 @@ hash = "383d9891f716981f418f6e2a97a5eeeee43912975d90d9ab4ffbfe98a832e40e"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "f2b4693678aacff3db5855bdb75c0e04481ab9a57a5b9461560e03ce75f3d017"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -2828,6 +2825,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "1fcfa3a7239f5219c405f946e2dc8ac24d43f595f700a71248dbc2662505ba85"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-backport.pw.toml"
+hash = "10bd636cf92f4267eab30b12cff355c15da75d3de24b6d287285c3a1dda164e0"
 metafile = true
 
 [[files]]
