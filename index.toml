@@ -33,10 +33,6 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/abridged.json"
 hash = "52c1aa85c25997e0a1e2e62d916269d93df4fbd4def36e5e22187a4d02061e33"
 
