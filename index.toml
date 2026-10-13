@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Tesko Jenn Pack Cheat Sheet.pdf"
+hash = "0e2f8e867aa95f3e85b4b79088488f383fdc01097cd3aa85112ac0aea1b648af"
+
+[[files]]
 file = "config/#STOP_MOD_REPOSTS.txt"
 hash = "d1f27b3ef6095e32e8563e179209de86acca3049fa6431b1ae15bd6f05e5832d"
 
@@ -2755,6 +2759,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
