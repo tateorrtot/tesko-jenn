@@ -4,6 +4,7 @@
 set -e
 cd "$(dirname "$0")"
 
+packwiz.exe migrate loader latest
 packwiz.exe refresh
 
 # Safety check: every file packwiz lists must actually get uploaded by git.
