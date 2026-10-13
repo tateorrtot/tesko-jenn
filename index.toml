@@ -1673,6 +1673,11 @@ hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
+metafile = true
+
+[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
