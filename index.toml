@@ -2713,11 +2713,6 @@ hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "1057ae8a50e61b3118a139f7ded240da2db9540aef3394383d310862f252c259"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
