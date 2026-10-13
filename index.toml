@@ -2549,7 +2549,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "f2b4693678aacff3db5855bdb75c0e04481ab9a57a5b9461560e03ce75f3d017"
+hash = "0c88c20f02730f76142e6d5140b23ab181e4ac44d9eaa0d6987f9d160239321f"
 metafile = true
 
 [[files]]
@@ -2829,7 +2829,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-backport.pw.toml"
-hash = "10bd636cf92f4267eab30b12cff355c15da75d3de24b6d287285c3a1dda164e0"
+hash = "99030300b9e694b7d0fd8af4bb44dca36039f2b6b81752475f2543f4e0f79c99"
 metafile = true
 
 [[files]]

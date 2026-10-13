@@ -1,8 +1,8 @@
 name = "Platform"
-filename = "Platform-neoforge-1.21.1-1.4.0.2639.1.jar"
+filename = "Platform-neoforge-1.21.1-1.4.0.2640.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/tateorrtot/tesko-jenn/releases/download/betas-1/Platform-neoforge-1.21.1-1.4.0.2639.1.jar"
+url = "https://github.com/tateorrtot/tesko-jenn/releases/download/betas-1/Platform-neoforge-1.21.1-1.4.0.2640.1.jar"
 hash-format = "sha256"
-hash = "75c5f5658b3327dc12ed54cb75b3369300788d9904bdc3dd4e072bbd6fecdf2d"
+hash = "69e9f4df829229e8981a73fc2aa1ba3352e66daa7b66fa312315ef175dd85e10"

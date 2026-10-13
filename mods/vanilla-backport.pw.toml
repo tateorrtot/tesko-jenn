@@ -1,8 +1,8 @@
 name = "Vanilla Backport"
-filename = "VanillaBackport-neoforge-1.21.1-1.2.0.2639.1.jar"
+filename = "VanillaBackport-neoforge-1.21.1-1.2.0.2640.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/tateorrtot/tesko-jenn/releases/download/betas-1/VanillaBackport-neoforge-1.21.1-1.2.0.2639.1.jar"
+url = "https://github.com/tateorrtot/tesko-jenn/releases/download/betas-1/VanillaBackport-neoforge-1.21.1-1.2.0.2640.1.jar"
 hash-format = "sha256"
-hash = "e10a14f4127b29131ab624262316dbc8dc3f7cb564dbf896c8d28f1d62c9377f"
+hash = "ce8f0b709b0cfbca85a08348d413c347b08a5fd7b2f0f3748bd424cd54e68c6c"

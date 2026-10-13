@@ -6,3 +6,4 @@ config/NoChatReports/NCR-Encryption.json
 shaderpacks/*EuphoriaPatches*
 README.md
 config/almostunified/debug.json
+*.sh
